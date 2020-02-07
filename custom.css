@@ -1,0 +1,147 @@
+.main-nav li {
+  border: 1px solid rgba(169,168,159,1);
+  padding: 3px 15px;
+}
+.logo-subtitle {
+  text-align: center !important;
+}
+.main-nav {
+  padding-top: 80px;
+}
+.sqs-block-button-element {
+  background-color: rgba(169,168,159,1) !important;
+  border: 1px solid rgba(169,168,159,1) !important;
+}
+.main-nav a {
+  padding: 0 !important;
+}
+
+blockquote {
+  padding: 0;
+  margin: 0;
+  border: none;  
+}
+
+blockquote h1 {
+  line-height: 1.6em;
+  font-family: 'Gotham Light' !important;
+  font-size: 1.3em;
+}
+
+.sqs-gallery-controls .next,
+.sqs-gallery-controls .previous
+{
+  background: none;
+}
+
+.sqs-gallery-controls .next:hover,
+.sqs-gallery-controls .previous:hover
+{
+  background: none;
+}
+@font-face {
+  font-family: 'Shopping Script';
+  src: url('https://static1.squarespace.com/static/5ba6ad1e2727be430022ece3/t/5ba6c0e908522941fe919f37/1537655017248/Shopping+Script+Demo.ttfhttps://static1.squarespace.com/static/5ba6ad1e2727be430022ece3/t/5ba6c0e908522941fe919f37/1537655017248/Shopping+Script+Demo.ttf');
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Gotham Book';
+  src: url('https://static1.squarespace.com/static/5ba6ad1e2727be430022ece3/t/5bb8bb57ec212d7c818c4146/1538833241829/Gotham+Book.otf');
+  font-style: normal;
+}
+@font-face {
+  font-family: 'Gotham Light';
+  src: url('https://static1.squarespace.com/static/5ba6ad1e2727be430022ece3/t/5bb8bb6ae4966bb13017f7b7/1538833258638/GOTHAM-XLIGHT.TTF');
+  font-style: normal;
+}
+
+.logo a {
+  font-family: 'Shopping Script' !important;
+  font-weight: 700;
+}
+
+h2, p, a {
+  font-family: 'Gotham Book' !important;
+}
+
+p h1 {
+  line-height: 1.6em !important;
+}
+
+h1 {
+  font-family: 'Gotham Light' !important;
+  line-height: 1em;
+  margin-bottom: 1em;
+}
+h3 {
+    font-family: 'Gotham Light' !important;
+  line-height: 1.6em !important;
+  margin-bottom: 1em;
+  text-transform: uppercase !important;
+}
+
+.field-element {
+  border: none !important;
+  background: none !important;
+}
+.form-item label,
+.form-item input {
+  display: inline;
+  min-width: 80px;
+}
+
+.sqs-block {
+  padding: 22px !important;
+}
+
+.form-item {
+  border-bottom: 1px solid #3c3c3c;
+}
+.form-item label {
+  padding: 12px 0px !important;
+  margin: 6px 0px 4px !important;
+}
+
+.form-item {
+  display: flex !important;
+  flex-direction: row;
+}
+.form-wrapper .field-error {
+  display: none;
+}
+.error label {
+   background-color: rgba(169,168,159,1) !important;
+  padding: 8px 2px 8px 4px!important;
+  display: inline-table !important;
+  color: white !important;
+}
+
+#topNav nav li a {
+  margin-top: 2px;
+  line-height: 18px !important;
+}
+.form-wrapper .field-list .field {
+  display: flex !important;
+}
+
+.form-wrapper input[type=submit] {
+   background-color: rgba(169,168,159,1) !important;
+  border: 1px solid rgba(169,168,159,1) !important;
+  font-weight: bold;
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.form-wrapper .field-list textarea {
+  min-height: 200px !important;
+}
+
+.button-block {
+  padding: 0 !important;
+}
+
+ul {
+  padding: 10px 20px;
+}
